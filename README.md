@@ -10,6 +10,7 @@ sudo apt update && sudo apt upgrade -y
 ```
 sudo apt install mpv libmpv1 -y
 ```
+## PlaySong
 #### # To play song with video
 
 ```
