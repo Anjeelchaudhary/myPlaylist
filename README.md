@@ -4,9 +4,20 @@
 
 ```
 sudo apt update && sudo apt upgrade -y
-
 ```
 #### # Install mpv Media Player – APT Ubuntu Method
 
 ```
 sudo apt install mpv libmpv1 -y
+```
+#### # To play song with video
+
+```
+mpv hppts:// url of the song
+```
+#### # To play song from customPlaylist
+
+```
+mpv --no-video --playlist=(fileName)
+```
+
